@@ -9,3 +9,5 @@ This is a test. To commit file using git bash to github. I will use README editt
 > git commit -m "commit information" \
 > \# -m for "message"
 > git push -u origin master
+
+Commit to new branch.
